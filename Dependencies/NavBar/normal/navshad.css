@@ -1,0 +1,16 @@
+nav {
+    font-size: 1.2em;
+    background-color: #91a8c6 !important;
+}
+
+.navbar-nav > li {
+    padding: 10px;
+}
+
+.fa-slack {
+    color: #fff;
+}
+
+.fa-twitter-square {
+    color: #fff;
+}

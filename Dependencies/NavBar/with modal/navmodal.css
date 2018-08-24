@@ -1,0 +1,38 @@
+.navbar-item {
+    text-align: center;
+}
+
+.modal {
+    padding-top: 50px;
+    background: #343a40;
+    color: white;
+    background-image: url(clark-tibbs-367075-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.modal ul {
+    list-style: none;
+}
+
+.modal ul>li>a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.modal-header {
+    color: white;
+    font-size: 30px;
+    /*border-bottom: 1px solid #1f232712 !important;*/
+}
+
+.modal-title {
+    font-size: 1em;
+    text-align: center;
+}
+
+.close {
+    color: #fff;
+    opacity: 2.5;
+}

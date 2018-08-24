@@ -1,0 +1,14 @@
+body {
+    background-color: #a7b6ce;
+    font-size: 1.2em;
+    padding: 30px;
+}
+
+.feature {
+    background-color: #e3e9f2;
+    padding: 50px;
+}
+
+.text-center p {
+    font-size: 1em;
+}
